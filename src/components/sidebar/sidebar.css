@@ -1,0 +1,28 @@
+.sidebar{
+    background: #f2f2f2;
+    height: 94vh;
+}
+ul.sidebar-menu{
+    list-style: none;
+    padding: 0px;
+}
+
+.sidebar-menu li{
+    padding: 10px 20px;
+}
+.sidebar-menu li a{
+    color: #797373;
+    font-size: 14px;
+    text-decoration: none;
+    display: block
+}
+.sidebar-menu li a i{
+    font-size: 18px;
+   margin-right: 5px;
+}
+ul.sidebar-menu ul{
+   background: #fff; 
+   list-style: none;
+   padding: 0px;
+   margin-top: 10px;
+}
